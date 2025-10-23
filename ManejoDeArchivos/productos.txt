@@ -1,0 +1,7 @@
+Lapicera,120.5,30
+Cuaderno,35.0,50
+Goma,15.75,100
+Mochila,850.0,15
+Plasticola,5000.0,6
+Crayones,3500.0,45
+Lapiz,500.0,100
